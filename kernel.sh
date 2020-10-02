@@ -9,4 +9,4 @@ fi
 lscpu
 lsblk
 uname -r
-fi
+
