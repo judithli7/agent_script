@@ -9,4 +9,6 @@ fi
 lscpu
 lsblk
 uname -r
+free -m
+iostat
 
